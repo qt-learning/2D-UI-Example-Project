@@ -1,10 +1,8 @@
-# 2D-UI-Example-Project
+# 2D-UI-Example-Project-Assets
 
-This is the example project done in "Introduction to 2D UI design with Qt Design Studio" course.
+These are the images used in "Introduction to 2D UI design with Qt Design Studio" course.
 
-You can download the project by selecting the green button "Code" -> Download ZIP.
-
-After downloading, extract the zip file to your computer and open the file NewDemoProject.qmlproject in Qt Design Studio.
+You can download the assets by selecting the green button "Code" -> Download ZIP.
 
 ## Licensing Information
 
